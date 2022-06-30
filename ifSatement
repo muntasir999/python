@@ -1,0 +1,6 @@
+myColour=input('Please enter your colour: ')
+if (myColour=='Red' or myColour==('red') or myColour=='RED'):
+    print('Your Colour is Red')
+if (myColour!='Red' and myColour!='red' and myColour!='RED'):
+    print('Your Colour is NOT Red')
+
