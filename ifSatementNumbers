@@ -1,0 +1,6 @@
+
+myNumber=float(input('Please enter your Number: '))
+if (myNumber>=5 and myNumber<=10):
+    print('Congrats, Your Number is between 5 and 10')
+if (myNumber>10 or myNumber<5):
+    print('Sorry,Your Number is NOT between 5 and 10')
